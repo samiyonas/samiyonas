@@ -1,4 +1,4 @@
-### Hi there, My name is Samuel.
+### Hi there, my name is Samuel.
 
 <!--
 **samiyonas/samiyonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
