@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">I'm a passionate developer enthusiastic about building web applications using various technologies. I love working on challenging projects and continuously learning new things.</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Data structures and algorithms**
 
 - 💬 Ask me about **JavaScript, Python, React, Flask, MySQL**
 
