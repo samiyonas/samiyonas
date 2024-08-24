@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data structures and algorithms**
 
-- 💬 Ask me about **JavaScript, Python, React, Flask, MySQL**
+- 💬 Ask me about **Python, Flask, MySQL**
 
 - 📫 How to reach me **samuel.x.yonas@gmail.com**
 
